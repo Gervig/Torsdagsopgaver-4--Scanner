@@ -1,2 +1,4 @@
 # Torsdagsopgaver 4: Scanner
- Torsdags opgave uge 5
+
+Casper Gervig
+cph-cg201@cphbusiness.dk
